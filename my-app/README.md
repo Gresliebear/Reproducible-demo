@@ -1,0 +1,1 @@
+docker run -e CHOKIDAR_USEPOLLING=true -v D:\test-react-app\my-app:/app -it --name react-test-app2 -p 3000:3000 react-test-2
